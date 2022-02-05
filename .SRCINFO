@@ -1,6 +1,6 @@
 pkgbase = notejot
 	pkgdesc = Stupidly simple notes app
-	pkgver = 3.3.3
+	pkgver = 3.4.9
 	pkgrel = 1
 	url = https://github.com/lainsce/notejot
 	arch = x86_64
@@ -17,7 +17,7 @@ pkgbase = notejot
 	depends = gtk4
 	depends = libportal-gtk4
 	depends = libadwaita
-	source = notejot::git+https://github.com/lainsce/notejot.git#tag=3.3.3
+	source = notejot::git+https://github.com/lainsce/notejot.git#tag=3.4.9
 	sha256sums = SKIP
 
 pkgname = notejot

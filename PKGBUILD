@@ -1,7 +1,7 @@
 # Maintainer: Leandro Cunha <leandrocunha016@gmail.com>
 
 pkgname=notejot
-pkgver=3.3.3
+pkgver=3.4.9
 pkgrel=1
 pkgdesc="Stupidly simple notes app"
 arch=(x86_64)
